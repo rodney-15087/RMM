@@ -1,0 +1,5 @@
+name,category,price,sku,inStock,id
+"RoundUp","Herbicides","29.99","HERB001",100,1
+"Malathion","Pesticides","19.99","PEST001",50,2
+"NPK 20-20-20","Fertilizers","39.99","FERT001",200,3
+"Corn Seeds","Seeds","14.99","SEED001",1000,4
