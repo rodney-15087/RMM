@@ -1,0 +1,12 @@
+{
+  "name": "purchase-management-order-system",
+  "version": "1.0.0",
+  "description": "A purchase management order system for agricultural products",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
